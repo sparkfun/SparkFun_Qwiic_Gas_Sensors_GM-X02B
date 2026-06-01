@@ -4125,17 +4125,6 @@
 		)
 		(uuid "023c3c6e-044e-421c-9680-bb1397726d8e")
 	)
-	(text "See table below for alternate addresses"
-		(exclude_from_sim no)
-		(at 200.406 31.242 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 132 132 1)
-			)
-		)
-		(uuid "118f23ab-7567-4c6e-b517-80bbbdec7fe4")
-	)
 	(text "Gas Sensor - GM-602B"
 		(exclude_from_sim no)
 		(at 199.898 23.368 0)
@@ -4156,9 +4145,9 @@
 		)
 		(uuid "4f39d24d-deb4-4561-a0f4-1667970edfa5")
 	)
-	(text "Default 7-bit Unshifted I²C Address: 0x40"
+	(text "Default 7-bit Unshifted I²C Address: 0x4D"
 		(exclude_from_sim no)
-		(at 199.898 28.702 0)
+		(at 200.66 136.144 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4166,6 +4155,17 @@
 			)
 		)
 		(uuid "918b780e-e9ef-498a-9882-e60aafd3d7e0")
+	)
+	(text "This devices comes in 8 different options for \n8 different I2C Addresses. Since we only have \n7 MEMS sensors, should we use a different \naddress for each one?"
+		(exclude_from_sim no)
+		(at 241.808 102.108 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 194 0 0 1)
+			)
+		)
+		(uuid "a892f377-ffa1-47bf-a6d2-e2f82eb316ad")
 	)
 	(text "Cut jumper to turn off power LED"
 		(exclude_from_sim no)
