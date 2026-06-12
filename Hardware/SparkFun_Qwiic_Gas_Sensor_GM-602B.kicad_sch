@@ -2266,7 +2266,7 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "IC"
+			(property "Reference" "U"
 				(at -10.414 7.366 0)
 				(effects
 					(font
@@ -2380,6 +2380,15 @@
 						(size 1.27 1.27)
 					)
 					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "PROD_ID" "IC-28770"
+				(at 0 -23.876 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
 					(hide yes)
 				)
 			)
@@ -2679,6 +2688,15 @@
 					(font
 						(size 1.27 1.27)
 					)
+				)
+			)
+			(property "PROD_ID" "VREG-28767"
+				(at 0 -24.892 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
 				)
 			)
 			(symbol "RT9080N-08GJ5_1_1"
@@ -4816,6 +4834,15 @@
 			)
 			(property "Heater Voltage" "1.9V"
 				(at 0 -17.526 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "PROD_ID" "IC-28769"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -7659,6 +7686,15 @@
 				(hide yes)
 			)
 		)
+		(property "PROD_ID" "IC-28769"
+			(at 198.12 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "b56d6e01-8bc2-4b49-a16b-00c14bcae96d")
 		)
@@ -7816,7 +7852,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOT94P280X100-5N"
+		(property "Footprint" "SparkFun-Semiconductor-Standard:SOT23-5"
 			(at 90.17 144.45 0)
 			(effects
 				(font
@@ -7929,6 +7965,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "PROD_ID" "VREG-28767"
+			(at 63.5 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "4"
@@ -8437,6 +8482,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "PROD_ID" "IC-28770"
+			(at 184.15 139.446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -10076,7 +10130,7 @@
 				(hide yes)
 			)
 		)
-		(property "PROD_ID" "RES-..."
+		(property "PROD_ID" "RES-28768"
 			(at 86.36 50.8 0)
 			(effects
 				(font

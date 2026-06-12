@@ -327,6 +327,19 @@
 				)
 			)
 		)
+		(property "PROD_ID" "VREG-28767"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d17310a3-882f-436b-b4aa-d734714e2d44")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/17d50717-502b-4515-a3ea-460114619deb")
 		(sheetname "/")
 		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-602B.kicad_sch")
@@ -686,6 +699,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "259a3fbc-5122-4805-bb9e-82d13031411b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PROD_ID" "IC-28770"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "819d8aec-7e53-4e8f-817b-19b2970d1d39")
 			(effects
 				(font
 					(size 1 1)
@@ -1929,7 +1955,7 @@
 				)
 			)
 		)
-		(property "PROD_ID" "RES-..."
+		(property "PROD_ID" "RES-28768"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6756,6 +6782,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "44a3cda8-f975-4ef2-b663-f6366ceb4a2e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PROD_ID" "IC-28769"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f32eed4a-b075-4f32-8b02-97cc9df3c6a5")
 			(effects
 				(font
 					(size 1 1)
