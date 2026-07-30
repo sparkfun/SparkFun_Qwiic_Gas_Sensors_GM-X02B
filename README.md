@@ -1,4 +1,4 @@
-# SparkFun Qwiic MEMS Hydrogen Sulfide Sensor - GM-602B
+# SparkFun Qwiic MEMS Gas Sensors - GM-X02B Series
 
 [![SparkFun Qwiic MEMS Hydrogen Sulfide Sensor - GM-602B](Documents/images/GM-602B.png)](https://www.sparkfun.com/products/XXXXX)
 
