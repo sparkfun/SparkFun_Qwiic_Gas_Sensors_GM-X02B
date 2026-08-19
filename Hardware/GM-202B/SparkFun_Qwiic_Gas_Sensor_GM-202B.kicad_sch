@@ -4901,7 +4901,7 @@
 					)
 				)
 			)
-			(property "PROD_ID" "RES-..."
+			(property "PROD_ID" "RES-29206"
 				(at 0 -6.35 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -11079,7 +11079,7 @@
 				)
 			)
 		)
-		(property "PROD_ID" "RES-..."
+		(property "PROD_ID" "RES-29206"
 			(at 86.36 50.8 0)
 			(hide yes)
 			(show_name no)
