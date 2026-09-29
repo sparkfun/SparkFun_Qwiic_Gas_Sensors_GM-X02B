@@ -1953,7 +1953,7 @@
 				)
 			)
 		)
-		(property "Value" "13.7k"
+		(property "Value" "15k"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "c03031f7-6ca4-4a09-83ba-13759074b219")
@@ -1991,7 +1991,7 @@
 				)
 			)
 		)
-		(property "PROD_ID" "RES-28768"
+		(property "PROD_ID" "RES-07854"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")

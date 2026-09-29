@@ -1,8 +1,8 @@
-2026-09-29 12:29:03,722 - root - INFO - Running Panelizer
-2026-09-29 12:29:03,729 - root - INFO - ['--panelx', '139.700000', '--panely', '190.500000', '--smaller', '--vscorelayer', 'User.Comments', '--vscoretextlayer', 'User.Comments', '--gapx', '0.000000', '--gapy', '0.000000', '--norightgap', '--hrail', '6.35', '--vrail', '6.35', '--fiducialpos', '0.25', '--fiducialslr']
-2026-09-29 12:29:03,729 - root - INFO - PANELIZER START: 2026-09-29T12:29:03.729514
-2026-09-29 12:29:08,279 - root - INFO - 
-START: 2026-09-29T12:29:03.729514
+2026-09-29 13:39:00,579 - root - INFO - Running Panelizer
+2026-09-29 13:39:00,579 - root - INFO - ['--panelx', '139.700000', '--panely', '190.500000', '--smaller', '--vscorelayer', 'User.Comments', '--vscoretextlayer', 'User.Comments', '--gapx', '0.000000', '--gapy', '0.000000', '--norightgap', '--hrail', '6.35', '--vrail', '6.35', '--fiducialpos', '0.25', '--fiducialslr']
+2026-09-29 13:39:00,579 - root - INFO - PANELIZER START: 2026-09-29T13:39:00.579683
+2026-09-29 13:39:04,484 - root - INFO - 
+START: 2026-09-29T13:39:00.579683
 Board saved by user.
 Zones filled by Panelizer.
 
@@ -11,4 +11,4 @@ Board dimensions: 25.40 x 25.40 mm.
 You can fit 5 x 7 boards on the panel.
 Zones refilled by Panelizer.
 
-2026-09-29 12:29:09,250 - root - INFO - Panelizer complete
+2026-09-29 13:39:05,355 - root - INFO - Panelizer complete

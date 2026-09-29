@@ -4394,7 +4394,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SparkFun-Resistor:13.7k_0603"
+		(symbol "SparkFun-Resistor:15k_0603"
 			(pin_numbers
 				(hide yes)
 			)
@@ -4416,7 +4416,7 @@
 					)
 				)
 			)
-			(property "Value" "13.7k"
+			(property "Value" "15k"
 				(at 0 2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -4459,8 +4459,8 @@
 					)
 				)
 			)
-			(property "PROD_ID" "RES-..."
-				(at 0 -6.35 0)
+			(property "PROD_ID" "RES-07854"
+				(at 0 -6.858 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -4492,7 +4492,7 @@
 					)
 				)
 			)
-			(symbol "13.7k_0603_0_1"
+			(symbol "15k_0603_0_1"
 				(polyline
 					(pts
 						(xy -1.524 0) (xy -1.143 1.016) (xy -0.762 0) (xy -0.381 -1.016) (xy 0 0)
@@ -4518,7 +4518,7 @@
 					)
 				)
 			)
-			(symbol "13.7k_0603_1_1"
+			(symbol "15k_0603_1_1"
 				(pin passive line
 					(at -2.54 0 0)
 					(length 1.016)
@@ -10898,7 +10898,7 @@
 		)
 	)
 	(symbol
-		(lib_id "SparkFun-Resistor:13.7k_0603")
+		(lib_id "SparkFun-Resistor:15k_0603")
 		(at 80.01 50.8 90)
 		(unit 1)
 		(body_style 1)
@@ -10920,7 +10920,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "13.7k"
+		(property "Value" "15k"
 			(at 82.55 52.0699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10964,8 +10964,8 @@
 				)
 			)
 		)
-		(property "PROD_ID" "RES-28768"
-			(at 86.36 50.8 0)
+		(property "PROD_ID" "RES-07854"
+			(at 86.868 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
