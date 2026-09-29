@@ -280,7 +280,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "v01"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -783,7 +783,7 @@
       {
         "filename": "SparkFun_Qwiic_Gas_Sensor_GM-602B.kicad_sch",
         "name": "SparkFun_Qwiic_Gas_Sensor_GM-602B",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
       }
     ],
     "used_designators": "",
@@ -792,7 +792,7 @@
   "sheets": [
     [
       "e3dd3ae4-244d-4cba-9cca-5d2abf83f29a",
-      "Root"
+      "SparkFun_Qwiic_Gas_Sensor_GM-602B"
     ]
   ],
   "text_variables": {},

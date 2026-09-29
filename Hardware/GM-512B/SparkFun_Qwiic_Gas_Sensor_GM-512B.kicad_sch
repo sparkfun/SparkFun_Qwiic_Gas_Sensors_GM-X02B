@@ -4978,7 +4978,7 @@
 					)
 				)
 			)
-			(property "PROD_ID" "IC-..."
+			(property "PROD_ID" "IC-29209"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -7853,7 +7853,7 @@
 				)
 			)
 		)
-		(property "PROD_ID" "IC-..."
+		(property "PROD_ID" "IC-29209"
 			(at 198.12 52.07 0)
 			(hide yes)
 			(show_name no)

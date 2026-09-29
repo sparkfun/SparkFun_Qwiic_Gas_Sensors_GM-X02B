@@ -1,0 +1,14 @@
+2026-09-29 12:33:06,955 - root - INFO - Running Panelizer
+2026-09-29 12:33:06,955 - root - INFO - ['--panelx', '139.700000', '--panely', '190.500000', '--smaller', '--vscorelayer', 'User.Comments', '--vscoretextlayer', 'User.Comments', '--gapx', '0.000000', '--gapy', '0.000000', '--norightgap', '--hrail', '6.35', '--vrail', '6.35', '--fiducialpos', '0.25', '--fiducialslr']
+2026-09-29 12:33:06,957 - root - INFO - PANELIZER START: 2026-09-29T12:33:06.957418
+2026-09-29 12:33:09,763 - root - INFO - 
+START: 2026-09-29T12:33:06.957418
+Board saved by user.
+Zones filled by Panelizer.
+
+Board: C:\Users\geoff.mcintyre\Documents\GitHub\Hardware\SparkFun_Qwiic_Gas_Sensor_GM-X02B\Hardware\GM-502B\Production\SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized.kicad_pcb
+Board dimensions: 25.40 x 25.40 mm.
+You can fit 5 x 7 boards on the panel.
+Zones refilled by Panelizer.
+
+2026-09-29 12:33:11,737 - root - INFO - Panelizer complete

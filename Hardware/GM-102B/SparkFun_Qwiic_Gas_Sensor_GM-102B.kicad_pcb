@@ -6927,7 +6927,7 @@
 				)
 			)
 		)
-		(property "PROD_ID" "IC-..."
+		(property "PROD_ID" "IC-29214"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")

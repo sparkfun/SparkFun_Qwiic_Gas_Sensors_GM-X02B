@@ -4978,7 +4978,7 @@
 					)
 				)
 			)
-			(property "PROD_ID" "IC-..."
+			(property "PROD_ID" "IC-29210"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -7590,7 +7590,7 @@
 			(uuid "31aa645a-4881-4d5b-8f95-99def8c21008")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "C4")
 					(unit 1)
@@ -7665,7 +7665,7 @@
 			)
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "ST4")
 					(unit 1)
@@ -7758,7 +7758,7 @@
 			(uuid "82079ada-e967-467f-8e1d-e6e36c586aa9")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "R5")
 					(unit 1)
@@ -7853,7 +7853,7 @@
 				)
 			)
 		)
-		(property "PROD_ID" "IC-..."
+		(property "PROD_ID" "IC-29210"
 			(at 198.12 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -7889,7 +7889,7 @@
 			(uuid "69b28850-bda2-4194-b47c-dc5c61ab6542")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "U1")
 					(unit 1)
@@ -8004,7 +8004,7 @@
 			(uuid "04c90c33-8b35-454a-bf85-950d10777ef9")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "C3")
 					(unit 1)
@@ -8211,7 +8211,7 @@
 			(uuid "0cc2e815-7cba-4c25-830e-4736fea89f24")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "IC2")
 					(unit 1)
@@ -8287,7 +8287,7 @@
 			)
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "G2")
 					(unit 1)
@@ -8365,7 +8365,7 @@
 			(uuid "ad2e8ad7-fd2e-4410-aad4-c69a847cbb59")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR014")
 					(unit 1)
@@ -8442,7 +8442,7 @@
 			(uuid "6aefeb6e-07cf-4a85-8199-7b6332e8d7e8")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR05")
 					(unit 1)
@@ -8520,7 +8520,7 @@
 			(uuid "eee9fcf2-fde8-4e1a-b3d8-f8f0f4b21b64")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR017")
 					(unit 1)
@@ -8635,7 +8635,7 @@
 			(uuid "03e3a274-a3a0-4b14-999d-491cb3f2e704")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "C2")
 					(unit 1)
@@ -8832,7 +8832,7 @@
 			(uuid "304daa6a-7c5b-486a-9874-1d7b490bdf03")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "IC3")
 					(unit 1)
@@ -8908,7 +8908,7 @@
 			)
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "FID3")
 					(unit 1)
@@ -8986,7 +8986,7 @@
 			(uuid "cf77ae63-52f6-4983-b30d-4e43f6aa777b")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR018")
 					(unit 1)
@@ -9062,7 +9062,7 @@
 			)
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "FID4")
 					(unit 1)
@@ -9140,7 +9140,7 @@
 			(uuid "928b3638-d6cb-4b59-bc80-9e03392218b9")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR04")
 					(unit 1)
@@ -9218,7 +9218,7 @@
 			(uuid "b03ae224-3872-4976-9c4e-adab88ad7a1e")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR09")
 					(unit 1)
@@ -9296,7 +9296,7 @@
 			(uuid "97c3d417-9bd2-4213-aef5-44c03f62fa8d")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR019")
 					(unit 1)
@@ -9379,7 +9379,7 @@
 					(unit 1)
 				)
 			)
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR0107")
 					(unit 1)
@@ -9457,7 +9457,7 @@
 			(uuid "261afe2c-10bc-40ff-a552-996d1ad7ad63")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR025")
 					(unit 1)
@@ -9550,7 +9550,7 @@
 			(uuid "d4656c4c-cdbc-4cd0-9e15-43ede5af5f9d")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "J3")
 					(unit 1)
@@ -9643,7 +9643,7 @@
 			(uuid "ce7fba0a-df2b-42bd-9736-53f5c7e0dcdc")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "D1")
 					(unit 1)
@@ -9721,7 +9721,7 @@
 			(uuid "98c17c79-f2fb-4619-af40-6b485e5d6424")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR022")
 					(unit 1)
@@ -9836,7 +9836,7 @@
 			(uuid "f67c84a4-d459-47cf-8b0b-1b4c7f186bf0")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "C1")
 					(unit 1)
@@ -9911,7 +9911,7 @@
 			)
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "ST2")
 					(unit 1)
@@ -9988,7 +9988,7 @@
 			(uuid "b6658479-7006-4a31-8fc3-c021bf7d34a8")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR020")
 					(unit 1)
@@ -10064,7 +10064,7 @@
 			)
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "G4")
 					(unit 1)
@@ -10148,7 +10148,7 @@
 			(uuid "c89e4be3-6abd-457e-82b8-3728f1a3ad3e")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "JP3")
 					(unit 1)
@@ -10223,7 +10223,7 @@
 			)
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "ST3")
 					(unit 1)
@@ -10301,7 +10301,7 @@
 			(uuid "931318a7-0970-4398-9b2e-b7351cdfab2b")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR08")
 					(unit 1)
@@ -10379,7 +10379,7 @@
 			(uuid "639ee219-c3fa-4e9f-88a2-bac5673234a6")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR026")
 					(unit 1)
@@ -10462,7 +10462,7 @@
 					(unit 1)
 				)
 			)
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR0123")
 					(unit 1)
@@ -10577,7 +10577,7 @@
 			(uuid "e07387d6-0513-4bf8-9e1c-440adfa7a00e")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "C5")
 					(unit 1)
@@ -10654,7 +10654,7 @@
 			(uuid "a8794fa5-2e0f-4ce8-9644-88a2512ecb60")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR01")
 					(unit 1)
@@ -10737,7 +10737,7 @@
 					(unit 1)
 				)
 			)
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR0105")
 					(unit 1)
@@ -10830,7 +10830,7 @@
 			(uuid "75682c93-d43f-4142-8941-6513de8383c0")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "R1")
 					(unit 1)
@@ -10906,7 +10906,7 @@
 			)
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "ST1")
 					(unit 1)
@@ -10990,7 +10990,7 @@
 			(uuid "6b79928a-9935-49a9-ab59-9b14442cb1c2")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "JP4")
 					(unit 1)
@@ -11067,7 +11067,7 @@
 			(uuid "f20eb347-4863-4dd6-8d09-28ef0801ebd9")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR010")
 					(unit 1)
@@ -11160,7 +11160,7 @@
 			(uuid "1883dc10-3fea-4b2f-b565-a96aa5d71bfb")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "R4")
 					(unit 1)
@@ -11238,7 +11238,7 @@
 			(uuid "cf72f0e1-99fa-4d3f-8b03-2e6b72fa144b")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR012")
 					(unit 1)
@@ -11316,7 +11316,7 @@
 			(uuid "3e86b724-8eae-4bab-b28f-0e9eec2a24f5")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR011")
 					(unit 1)
@@ -11409,7 +11409,7 @@
 			(uuid "665c9ea6-cb90-4147-a1ef-805b0635559e")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "R3")
 					(unit 1)
@@ -11487,7 +11487,7 @@
 			(uuid "097e3add-f7f7-46b3-b8e0-9f170a56b9ef")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR06")
 					(unit 1)
@@ -11580,7 +11580,7 @@
 			(uuid "971cfb57-c351-49a9-8c74-991e3b087307")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "R6")
 					(unit 1)
@@ -11658,7 +11658,7 @@
 			(uuid "65e052d3-fb6b-4ec5-92f9-e7001d3f4662")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR023")
 					(unit 1)
@@ -11751,7 +11751,7 @@
 			(uuid "86437abf-59d5-42a0-91f9-ce5e1fc46586")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "R2")
 					(unit 1)
@@ -11829,7 +11829,7 @@
 			(uuid "f1b5a4f2-21ed-4a37-ac31-6356363eae1c")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR03")
 					(unit 1)
@@ -11907,7 +11907,7 @@
 			(uuid "35711bb2-1ed3-4f02-a99c-94c8e3841abc")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR016")
 					(unit 1)
@@ -11984,7 +11984,7 @@
 			(uuid "79a8b5d0-54cc-418a-a5fe-d0ba89eee9f5")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR0106")
 					(unit 1)
@@ -12060,7 +12060,7 @@
 			)
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "G3")
 					(unit 1)
@@ -12136,7 +12136,7 @@
 			)
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "FID1")
 					(unit 1)
@@ -12241,7 +12241,7 @@
 			(uuid "7cfed1e1-397e-43bd-ad44-c161fbf48fd1")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "J1")
 					(unit 1)
@@ -12323,7 +12323,7 @@
 			(uuid "42777183-dc0e-4cd5-bcfb-2977a711eaef")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "JP1")
 					(unit 1)
@@ -12400,7 +12400,7 @@
 			(uuid "7266dbb7-a2c9-489d-b131-245ffebaa09f")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR0108")
 					(unit 1)
@@ -12483,7 +12483,7 @@
 			(uuid "1882063d-4efa-4c1a-84e6-2bb1b61e9294")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "JP2")
 					(unit 1)
@@ -12559,7 +12559,7 @@
 			)
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "G1")
 					(unit 1)
@@ -12637,7 +12637,7 @@
 			(uuid "41aad139-3602-4e01-896d-1d49c641fa19")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR024")
 					(unit 1)
@@ -12714,7 +12714,7 @@
 			(uuid "8c23bb31-25fa-47c5-b4b0-73dd681acd01")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR015")
 					(unit 1)
@@ -12791,7 +12791,7 @@
 			(uuid "600d6061-458f-4945-9c40-67bfe0ca9536")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR0124")
 					(unit 1)
@@ -12869,7 +12869,7 @@
 			(uuid "92113c2e-b83d-439a-9885-04f9528dac96")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR013")
 					(unit 1)
@@ -12947,7 +12947,7 @@
 			(uuid "62fca31a-469a-457e-8410-03e35869c0d8")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR07")
 					(unit 1)
@@ -13025,7 +13025,7 @@
 			(uuid "334aa271-ecbd-480a-933c-8e0f176b0b89")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR021")
 					(unit 1)
@@ -13102,7 +13102,7 @@
 			(uuid "b7f71c1a-dc19-41d4-bb00-03938a86032e")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR0122")
 					(unit 1)
@@ -13207,7 +13207,7 @@
 			(uuid "f62974a6-6ada-4b1f-8eae-55afd704de0e")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "J2")
 					(unit 1)
@@ -13283,7 +13283,7 @@
 			)
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "FID2")
 					(unit 1)
@@ -13360,7 +13360,7 @@
 			(uuid "7a835f50-380f-44c3-928a-e573590b73f3")
 		)
 		(instances
-			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B"
+			(project "SparkFun_Qwiic_Gas_Sensor_GM-502B_panelized"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR02")
 					(unit 1)

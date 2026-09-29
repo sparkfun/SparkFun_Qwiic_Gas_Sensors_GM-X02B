@@ -1991,7 +1991,7 @@
 				)
 			)
 		)
-		(property "PROD_ID" "RES-..."
+		(property "PROD_ID" "RES-29206"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6616,7 +6616,7 @@
 				)
 			)
 		)
-		(property "PROD_ID" "IC-..."
+		(property "PROD_ID" "IC-29212"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13722,7 +13722,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "22.86 mm"
+		(gr_text "900 mils"
 			(at 115.4485 99.376 90)
 			(layer "Dwgs.User")
 			(uuid "44ae2d15-d915-4e49-be23-ddcb944d57c9")
@@ -13760,7 +13760,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "25.4 mm"
+		(gr_text "1000 mils"
 			(at 113.226 98.106 90)
 			(layer "Dwgs.User")
 			(uuid "5f70a531-96c8-49fb-a68d-c7cd16a210e8")
@@ -13798,7 +13798,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "25.4 mm"
+		(gr_text "1000 mils"
 			(at 135.966 119.181 0)
 			(layer "Dwgs.User")
 			(uuid "7116aa76-7990-4398-81ac-a259ceabea3a")
@@ -13836,7 +13836,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "22.86 mm"
+		(gr_text "900 mils"
 			(at 134.696 116.641 0)
 			(layer "Dwgs.User")
 			(uuid "84ac7b86-13e6-4ddd-8ca8-728b62d644df")
@@ -13873,7 +13873,7 @@
 			(extension_height 0.58642)
 			(extension_offset 0.5)
 		)
-		(gr_text "2.54 mm"
+		(gr_text "100 mils"
 			(at 133.807 114.1588 0)
 			(layer "Dwgs.User")
 			(uuid "8b0d82b2-03f4-454f-996b-d661e12f0a2a")
@@ -13911,7 +13911,7 @@
 			(extension_height 0.58642)
 			(extension_offset 0.5)
 		)
-		(gr_text "12.7 mm"
+		(gr_text "500 mils"
 			(at 117.9885 104.456 90)
 			(layer "Dwgs.User")
 			(uuid "8daceb47-3559-48b9-bd86-26e9967b5cff")
@@ -13949,7 +13949,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "2.54 mm"
+		(gr_text "100 mils"
 			(at 121.7166 107.5294 90)
 			(layer "Dwgs.User")
 			(uuid "911df21b-384f-4459-87b7-a09bc296d202")
@@ -13988,7 +13988,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "7.62 mm"
+		(gr_text "300 mils"
 			(at 122.631 113.981 0)
 			(layer "Dwgs.User")
 			(uuid "d790e351-e6db-4a0b-a93b-31c818ae7b3c")

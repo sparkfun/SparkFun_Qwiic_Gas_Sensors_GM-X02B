@@ -329,7 +329,7 @@
 		)
 		(path "/17d50717-502b-4515-a3ea-460114619deb")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -715,7 +715,7 @@
 		)
 		(path "/31938b4e-7349-4041-b86d-67993e7e9384")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1014,7 +1014,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a7da563b-4808-4fb2-b2a5-b185209fb7c9")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1251,7 +1251,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/123877d5-05f2-4391-ba14-1350376926fc")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1460,7 +1460,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/50fd615d-ccb5-48c4-b08c-2b3e879551d1")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1660,7 +1660,7 @@
 		(property ki_fp_filters "Fiducial*")
 		(path "/3602d096-a2c9-48c7-93d8-ae094ffbafd9")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1758,7 +1758,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/50963b34-7e59-414f-91bd-d6a88a7744dd")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1953,7 +1953,7 @@
 				)
 			)
 		)
-		(property "Value" "24.9k"
+		(property "Value" "21.3k"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "c03031f7-6ca4-4a09-83ba-13759074b219")
@@ -1991,7 +1991,7 @@
 				)
 			)
 		)
-		(property "PROD_ID" "RES-..."
+		(property "PROD_ID" "RES-29206"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2007,7 +2007,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/797bcab9-c171-441b-acc5-b61f42e520af")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2702,7 +2702,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/54480dcc-7733-412a-af7a-ccd4eac1d1c4")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3104,7 +3104,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7712b2e6-14ab-436a-9c9a-36967405b6c6")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3496,7 +3496,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/0142d9df-c475-4376-9b90-a51a2f407b9f")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3707,7 +3707,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/b6da6a9d-7766-4336-b283-72a0ef781ba9")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4190,7 +4190,7 @@
 		(property ki_fp_filters "Fiducial*")
 		(path "/6685cf0a-6943-4c54-8d4f-b9f189ce2a54")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4323,7 +4323,7 @@
 		(property ki_fp_filters "Fiducial*")
 		(path "/3c7aca20-7739-4ab5-bf9c-7eade66994b3")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4563,7 +4563,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/e99ef319-9d56-481f-bcd2-e57822056fbe")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4792,7 +4792,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0ddd601c-2cc3-4c47-9666-cdfd96f947e2")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5029,7 +5029,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/2e2a86f3-e630-4044-9bdd-07e4ddfedd15")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5555,7 +5555,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9279e0bf-613e-43d6-a144-e5555127b271")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5767,7 +5767,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/86814a0b-17cb-48cc-bfa2-2c3b197894c7")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6210,7 +6210,7 @@
 		)
 		(path "/61301b78-3cf8-402e-ace7-cf63f2f7db5b")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6522,7 +6522,7 @@
 		(property ki_fp_filters "Fiducial*")
 		(path "/56277993-b69c-4076-80f1-028732d58d81")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6656,7 +6656,7 @@
 		(property ki_fp_filters "Fiducial*")
 		(path "/7c6696af-f8ea-4dc6-9a32-3bca233b1d03")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6865,7 +6865,7 @@
 				)
 			)
 		)
-		(property "Value" "GM-402B"
+		(property "Value" "GM-502B"
 			(at 0 5 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6878,7 +6878,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.winsen-sensor.com/d/files/manual/gm-402b.pdf"
+		(property "Datasheet" "https://www.winsen-sensor.com/product/gm-502b.html"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6904,7 +6904,7 @@
 				)
 			)
 		)
-		(property "Gas" "CH4, C3H8, Combustible Gas"
+		(property "Gas" "C2H5OH, CH2O, C7H8, VOC"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6917,7 +6917,7 @@
 				)
 			)
 		)
-		(property "Heater Voltage" "2.8V"
+		(property "Heater Voltage" "2.5V"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6930,7 +6930,7 @@
 				)
 			)
 		)
-		(property "PROD_ID" "IC-..."
+		(property "PROD_ID" "IC-29210"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6945,7 +6945,7 @@
 		)
 		(path "/0f7f8363-f773-4e46-a0ea-aa82d36d9bc9")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7234,7 +7234,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/994e0b9b-8871-42c8-a875-fadc65d7b978")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7432,7 +7432,7 @@
 		(property ki_fp_filters "Fiducial*")
 		(path "/01446c66-91f5-46d5-b726-b2bbfbf726eb")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8330,7 +8330,7 @@
 		(property ki_fp_filters "SolderJumper*Bridged12*")
 		(path "/7ee42ac0-eddb-45b0-98ef-91c12259b695")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8704,10 +8704,10 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "SparkFun-Jumper:Jumper_3_NO"
+	(footprint "SparkFun-Jumper:Jumper_3_NC-1_Trace"
 		(layer "B.Cu")
 		(uuid "4e46e9c6-5f93-42e7-b9cc-1d7637d7e343")
-		(at 140.411 100.646 -90)
+		(at 140.411 100.646 90)
 		(tags "SparkFun")
 		(property "Reference" "JP3"
 			(at 0 1.143 90)
@@ -8719,7 +8719,7 @@
 					(thickness 0.1)
 					(bold yes)
 				)
-				(justify bottom mirror)
+				(justify top mirror)
 			)
 		)
 		(property "Value" "ADR0"
@@ -8732,11 +8732,11 @@
 					(thickness 0.1)
 					(bold yes)
 				)
-				(justify top mirror)
+				(justify bottom mirror)
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -8749,8 +8749,8 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Solder Jumper, 3-pole, open"
-			(at 0 0 90)
+		(property "Description" "3-pole Solder Jumper, pins 1+2 closed/bridged"
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -8763,46 +8763,42 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "SolderJumper*Open*")
+		(property ki_fp_filters "SolderJumper*Bridged12*")
 		(path "/62704024-16a2-4ca2-bd9e-560e605f9919")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
 				(pins "1" "2" "3")
 			)
 		)
+		(attr allow_soldermask_bridges)
+		(net_tie_pad_groups "1,2")
 		(duplicate_pad_numbers_are_jumpers no)
-		(fp_line
-			(start -1.27 1.016)
-			(end 1.27 1.016)
+		(fp_poly
+			(pts
+				(xy -0.7707 0.15) (xy -0.2707 0.15) (xy -0.2707 -0.15) (xy -0.7707 -0.15)
+			)
 			(stroke
-				(width 0.1524)
+				(width 0)
 				(type solid)
 			)
-			(layer "B.SilkS")
-			(uuid "392e9578-744c-4698-b402-6ec938246f55")
+			(fill yes)
+			(layer "B.Cu")
+			(uuid "3452d547-7a36-49bd-8a85-b30071e5655e")
 		)
-		(fp_line
-			(start -1.524 -0.762)
-			(end -1.524 0.762)
-			(stroke
-				(width 0.1524)
-				(type solid)
+		(fp_poly
+			(pts
+				(xy -0.2667 -0.2405) (xy -0.7747 -0.2405) (xy -0.7747 0.2405) (xy -0.2667 0.2405)
 			)
-			(layer "B.SilkS")
-			(uuid "cba750c4-ca97-4c8d-bc9c-567d0531dac9")
-		)
-		(fp_line
-			(start 1.524 -0.762)
-			(end 1.524 0.762)
 			(stroke
-				(width 0.1524)
-				(type solid)
+				(width 0)
+				(type default)
 			)
-			(layer "B.SilkS")
-			(uuid "05c4bc8a-b4e7-49c0-b187-10a5f0f1e04f")
+			(fill yes)
+			(layer "B.Mask")
+			(uuid "2d7b0edd-06aa-4767-8bc2-31e42ef862cf")
 		)
 		(fp_line
 			(start 1.27 -1.016)
@@ -8814,31 +8810,50 @@
 			(layer "B.SilkS")
 			(uuid "1734ab48-0b4c-42ac-ab38-76d314afb8e1")
 		)
-		(fp_arc
-			(start -1.27 1.016)
-			(mid -1.449605 0.941605)
-			(end -1.524 0.762)
+		(fp_line
+			(start 1.7272 0.5588)
+			(end 1.7272 -0.5588)
 			(stroke
 				(width 0.1524)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "855ee969-3193-4e3e-b4ce-b89c3f97f3e4")
+			(uuid "cba750c4-ca97-4c8d-bc9c-567d0531dac9")
 		)
-		(fp_arc
-			(start 1.524 0.762)
-			(mid 1.449605 0.941605)
+		(fp_line
+			(start -1.7272 0.5588)
+			(end -1.7272 -0.5588)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "05c4bc8a-b4e7-49c0-b187-10a5f0f1e04f")
+		)
+		(fp_line
+			(start -1.27 1.016)
 			(end 1.27 1.016)
 			(stroke
 				(width 0.1524)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "3198c818-2084-47d4-97d7-2fc768df60de")
+			(uuid "392e9578-744c-4698-b402-6ec938246f55")
 		)
 		(fp_arc
-			(start -1.524 -0.762)
-			(mid -1.449605 -0.941605)
+			(start 1.27 -1.016)
+			(mid 1.593289 -0.882089)
+			(end 1.7272 -0.5588)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "a3e29799-45b6-43db-8db0-48045a859f0d")
+		)
+		(fp_arc
+			(start -1.7272 -0.5588)
+			(mid -1.593289 -0.882089)
 			(end -1.27 -1.016)
 			(stroke
 				(width 0.1524)
@@ -8848,19 +8863,30 @@
 			(uuid "ac1f90e5-0d86-456e-be66-3af9b655bc1f")
 		)
 		(fp_arc
-			(start 1.27 -1.016)
-			(mid 1.449605 -0.941605)
-			(end 1.524 -0.762)
+			(start 1.7272 0.5588)
+			(mid 1.593289 0.882089)
+			(end 1.27 1.016)
 			(stroke
 				(width 0.1524)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "a3e29799-45b6-43db-8db0-48045a859f0d")
+			(uuid "3198c818-2084-47d4-97d7-2fc768df60de")
+		)
+		(fp_arc
+			(start -1.27 1.016)
+			(mid -1.593289 0.882089)
+			(end -1.7272 0.5588)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "855ee969-3193-4e3e-b4ce-b89c3f97f3e4")
 		)
 		(fp_rect
-			(start 1.4 0.9)
-			(end -1.4 -0.9)
+			(start 1.6 0.9)
+			(end -1.6 -0.9)
 			(stroke
 				(width 0.1)
 				(type default)
@@ -8870,18 +8896,18 @@
 			(uuid "b13dc41a-dacd-4d9f-ac83-3759105e0aa9")
 		)
 		(pad "1" smd rect
-			(at -0.8128 0 270)
-			(size 0.635 1.27)
+			(at -1.0414 0 90)
+			(size 0.6604 1.27)
 			(layers "B.Cu" "B.Mask")
-			(net "3.3V")
+			(net "GND")
 			(pinfunction "A_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
 			(uuid "e9509cc4-502d-4a06-9989-4a7e8843ef41")
 		)
 		(pad "2" smd rect
-			(at 0 0 270)
-			(size 0.635 1.27)
+			(at 0 0 90)
+			(size 0.6604 1.27)
 			(layers "B.Cu" "B.Mask")
 			(net "ADR0")
 			(pinfunction "B_2")
@@ -8890,10 +8916,10 @@
 			(uuid "1bf0e2d6-349f-45ea-be0c-b7cffece3b0a")
 		)
 		(pad "3" smd rect
-			(at 0.8128 0 270)
-			(size 0.635 1.27)
+			(at 1.0414 0 270)
+			(size 0.6604 1.27)
 			(layers "B.Cu" "B.Mask")
-			(net "GND")
+			(net "3.3V")
 			(pinfunction "C_3")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
@@ -9080,7 +9106,7 @@
 		(property ki_fp_filters "SolderJumper*Bridged*")
 		(path "/b8ac0351-59c1-42a6-9084-e9e990e98a2e")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9409,7 +9435,7 @@
 		(property ki_fp_filters "SolderJumper*Bridged123*")
 		(path "/c438fc8e-39bd-4459-9a2c-c91d4d73c5e8")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10118,7 +10144,7 @@
 		(property ki_fp_filters "Fiducial*")
 		(path "/ecaab292-da05-4b4f-b1f6-747ad8f43456")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10219,7 +10245,7 @@
 		(property ki_fp_filters "Fiducial*")
 		(path "/b34b89d0-b9bd-477f-829d-749a87b7e2fb")
 		(sheetname "/")
-		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-402B.kicad_sch")
+		(sheetfile "SparkFun_Qwiic_Gas_Sensor_GM-502B.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12339,7 +12365,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "22.86 mm"
+		(gr_text "900 mils"
 			(at 115.4485 99.376 90)
 			(layer "Dwgs.User")
 			(uuid "44ae2d15-d915-4e49-be23-ddcb944d57c9")
@@ -12377,7 +12403,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "25.4 mm"
+		(gr_text "1000 mils"
 			(at 113.226 98.106 90)
 			(layer "Dwgs.User")
 			(uuid "5f70a531-96c8-49fb-a68d-c7cd16a210e8")
@@ -12415,7 +12441,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "25.4 mm"
+		(gr_text "1000 mils"
 			(at 135.966 119.181 0)
 			(layer "Dwgs.User")
 			(uuid "7116aa76-7990-4398-81ac-a259ceabea3a")
@@ -12453,7 +12479,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "22.86 mm"
+		(gr_text "900 mils"
 			(at 134.696 116.641 0)
 			(layer "Dwgs.User")
 			(uuid "84ac7b86-13e6-4ddd-8ca8-728b62d644df")
@@ -12490,7 +12516,7 @@
 			(extension_height 0.58642)
 			(extension_offset 0.5)
 		)
-		(gr_text "2.54 mm"
+		(gr_text "100 mils"
 			(at 133.807 114.1588 0)
 			(layer "Dwgs.User")
 			(uuid "8b0d82b2-03f4-454f-996b-d661e12f0a2a")
@@ -12528,7 +12554,7 @@
 			(extension_height 0.58642)
 			(extension_offset 0.5)
 		)
-		(gr_text "12.7 mm"
+		(gr_text "500 mils"
 			(at 117.9885 104.456 90)
 			(layer "Dwgs.User")
 			(uuid "8daceb47-3559-48b9-bd86-26e9967b5cff")
@@ -12566,7 +12592,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "2.54 mm"
+		(gr_text "100 mils"
 			(at 121.7166 107.5294 90)
 			(layer "Dwgs.User")
 			(uuid "911df21b-384f-4459-87b7-a09bc296d202")
@@ -12605,7 +12631,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "7.62 mm"
+		(gr_text "300 mils"
 			(at 122.631 113.981 0)
 			(layer "Dwgs.User")
 			(uuid "d790e351-e6db-4a0b-a93b-31c818ae7b3c")
