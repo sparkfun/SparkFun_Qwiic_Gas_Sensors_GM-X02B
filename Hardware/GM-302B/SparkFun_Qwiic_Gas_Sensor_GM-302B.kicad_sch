@@ -8662,7 +8662,7 @@
 				)
 			)
 		)
-		(property "Value" "1.9V"
+		(property "Value" "VH"
 			(at 185.42 43.434 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10208,7 +10208,7 @@
 				)
 			)
 		)
-		(property "Value" "1.9V"
+		(property "Value" "VH"
 			(at 80.01 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12932,7 +12932,7 @@
 				)
 			)
 		)
-		(property "Value" "1.9V"
+		(property "Value" "VH"
 			(at 106.68 43.434 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13578,7 +13578,7 @@
 				)
 			)
 		)
-		(property "Value" "1.9V"
+		(property "Value" "VH"
 			(at 175.26 43.434 0)
 			(show_name no)
 			(do_not_autoplace no)
